@@ -1,0 +1,63 @@
+Farm Practice Experience Sentiment Analysis Report
+==================================================
+
+Overall Sentiment Distribution:
+  - positive: 398 (38.6%)
+  - neutral: 332 (32.2%)
+  - negative: 302 (29.3%)
+
+Aspect-Based Sentiment Analysis:
+
+Motivation (mentioned in 560 responses, 54.3%):
+  - negative: 199 (35.5%)
+  - neutral: 192 (34.3%)
+  - positive: 169 (30.2%)
+
+Satisfaction (mentioned in 427 responses, 41.4%):
+  - positive: 244 (57.1%)
+  - neutral: 150 (35.1%)
+  - negative: 33 (7.7%)
+
+Challenge (mentioned in 771 responses, 74.7%):
+  - negative: 418 (54.2%)
+  - neutral: 239 (31.0%)
+  - positive: 114 (14.8%)
+
+Learning (mentioned in 858 responses, 83.1%):
+  - negative: 356 (41.5%)
+  - neutral: 268 (31.2%)
+  - positive: 234 (27.3%)
+
+Social (mentioned in 373 responses, 36.1%):
+  - positive: 164 (44.0%)
+  - neutral: 123 (33.0%)
+  - negative: 86 (23.1%)
+
+Sentiment Analysis by Gender:
+
+Male (n=362):
+  - positive: 146 (40.3%)
+  - neutral: 114 (31.5%)
+  - negative: 102 (28.2%)
+
+Other (n=341):
+  - positive: 137 (40.2%)
+  - negative: 117 (34.3%)
+  - neutral: 87 (25.5%)
+
+Female (n=329):
+  - neutral: 131 (39.8%)
+  - positive: 115 (35.0%)
+  - negative: 83 (25.2%)
+
+Sentiment Analysis by Prior Farming Experience:
+
+No prior experience (n=519):
+  - positive: 199 (38.3%)
+  - neutral: 167 (32.2%)
+  - negative: 153 (29.5%)
+
+Yes prior experience (n=513):
+  - positive: 199 (38.8%)
+  - neutral: 165 (32.2%)
+  - negative: 149 (29.0%)
